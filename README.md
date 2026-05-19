@@ -3,7 +3,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
 ![C++](https://img.shields.io/badge/C++-Embedded-orange)
 ![RFID](https://img.shields.io/badge/RFID-MFRC522-success)
-![Wokwi](https://img.shields.io/badge/Wokwi-Simulation-blueviolet)
+[![Wokwi](https://img.shields.io/badge/Wokwi-Live%20Simulation-blueviolet)](https://wokwi.com/projects/464379162690625537)
 ![IoT](https://img.shields.io/badge/IoT-Project-informational)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
