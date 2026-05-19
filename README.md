@@ -144,23 +144,23 @@ UID,STATUS,MILLIS
 
 ### Hardware Setup
 
-![Hardware Setup](preview1.png)
+![Hardware Setup](pictures/hardware.png)
 
 ### RFID Card Scan
 
-![RFID Scan](preview2.png)
+![RFID Scan](pictures/rfid card scanner.png)
 
 ### Access Granted
 
-![Access Granted](preview3.png)
+![Access Granted](pictures/access granted.png)
 
 ### Access Denied
 
-![Access Denied](preview4.png)
+![Access Denied](pictures/access denied.png)
 
 ### Serial Monitor Logs
 
-![Serial Monitor](preview5.png)
+![Serial Monitor](pictures/serial monitor.png)
 
 ---
 
@@ -171,11 +171,13 @@ RFID-Attendance-System/
 │── RFID_Attendance_System.ino
 │── README.md
 │── LICENSE
-│── preview1.png
-│── preview2.png
-│── preview3.png
-│── preview4.png
-│── preview5.png
+│
+├── pictures/
+│   ├── hardware.png
+│   ├── rfid card scanner.png
+│   ├── access granted.png
+│   ├── access denied.png
+│   └── serial monitor.png
 ```
 
 ---
