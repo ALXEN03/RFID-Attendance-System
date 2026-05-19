@@ -172,7 +172,7 @@ RFID-Attendance-System/
 │── README.md
 │── LICENSE
 │
-├── pictures/
+├── Pictures/
 │   ├── hardware.png
 │   ├── rfidscanner.png
 │   ├── accessgranted.png
