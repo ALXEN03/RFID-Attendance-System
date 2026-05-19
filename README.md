@@ -144,23 +144,23 @@ UID,STATUS,MILLIS
 
 ### Hardware Setup
 
-![Hardware Setup](pictures/hardware.png)
+![Hardware Setup](Pictures/hardware.png)
 
 ### RFID Card Scan
 
-![RFID Scan](pictures/rfidscanner.png)
+![RFID Scan](Pictures/rfidscanner.png)
 
 ### Access Granted
 
-![Access Granted](pictures/accessgranted.png)
+![Access Granted](Pictures/accessgranted.png)
 
 ### Access Denied
 
-![Access Denied](pictures/accessdenied.png)
+![Access Denied](Pictures/accessdenied.png)
 
 ### Serial Monitor Logs
 
-![Serial Monitor](pictures/serialmonitor.png)
+![Serial Monitor](Pictures/serialmonitor.png)
 
 ---
 
