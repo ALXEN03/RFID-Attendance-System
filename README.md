@@ -132,7 +132,7 @@ This helps prevent unauthorized access attempts.
 
 ## Serial Monitor Output Example
 
-```bash
+```bash id="n6g15x"
 UID,STATUS,MILLIS
 43EF2C06,GRANTED,15230
 86F64506,DENIED,18742
@@ -148,25 +148,25 @@ UID,STATUS,MILLIS
 
 ### RFID Card Scan
 
-![RFID Scan](pictures/rfid card scanner.png)
+![RFID Scan](pictures/rfidscanner.png)
 
 ### Access Granted
 
-![Access Granted](pictures/access granted.png)
+![Access Granted](pictures/accessgranted.png)
 
 ### Access Denied
 
-![Access Denied](pictures/access denied.png)
+![Access Denied](pictures/accessdenied.png)
 
 ### Serial Monitor Logs
 
-![Serial Monitor](pictures/serial monitor.png)
+![Serial Monitor](pictures/serialmonitor.png)
 
 ---
 
 ## Project Structure
 
-```bash
+```bash id="r4wnk0"
 RFID-Attendance-System/
 │── RFID_Attendance_System.ino
 │── README.md
@@ -174,10 +174,10 @@ RFID-Attendance-System/
 │
 ├── pictures/
 │   ├── hardware.png
-│   ├── rfid card scanner.png
-│   ├── access granted.png
-│   ├── access denied.png
-│   └── serial monitor.png
+│   ├── rfidscanner.png
+│   ├── accessgranted.png
+│   ├── accessdenied.png
+│   └── serialmonitor.png
 ```
 
 ---
