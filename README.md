@@ -1,29 +1,14 @@
-# RFID Attendance & Access System
+# RFID Attendance & Access Control System
 
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
 ![C++](https://img.shields.io/badge/C++-Embedded-orange)
 ![RFID](https://img.shields.io/badge/RFID-MFRC522-success)
+![Wokwi](https://img.shields.io/badge/Wokwi-Simulation-blueviolet)
+![IoT](https://img.shields.io/badge/IoT-Project-informational)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Wokwi](https://img.shields.io/badge/Wokwi-Live%20Simulation-blueviolet)](https://wokwi.com/projects/464379162690625537)
 
 An RFID-based attendance and access verification system built using Arduino. The system scans RFID cards, verifies authorized users, displays access status on an LCD screen, and provides buzzer feedback for successful or denied access attempts.
-
----
-
-## 🔗 Live Simulation
-
-Experience the project online using Wokwi:
-
-👉 https://wokwi.com/projects/464379162690625537
-
-This simulation demonstrates:
-
-* RFID card scanning
-* Access verification
-* LCD status messages
-* Buzzer feedback
-* Real-time attendance logging
 
 ---
 
@@ -42,8 +27,15 @@ Manual attendance systems can be slow and inefficient. This project provides a s
 * Attendance logging through Serial Monitor
 * Access granted and denied verification
 * Real-time RFID scanning
-* Online Wokwi simulation support
-* Interactive IoT demonstration
+* Wokwi simulation support
+
+---
+
+## 🔗 Wokwi Simulation
+
+Live project simulation:
+
+https://wokwi.com/projects/464379162690625537
 
 ---
 
@@ -132,7 +124,7 @@ This helps prevent unauthorized access attempts.
 
 ## Serial Monitor Output Example
 
-```bash id="n6g15x"
+```bash
 UID,STATUS,MILLIS
 43EF2C06,GRANTED,15230
 86F64506,DENIED,18742
@@ -166,13 +158,12 @@ UID,STATUS,MILLIS
 
 ## Project Structure
 
-```bash id="r4wnk0"
+```bash
 RFID-Attendance-System/
-│── RFID_Attendance_System.ino
+│── rfid_attendance.cpp
 │── README.md
 │── LICENSE
-│
-├── Pictures/
+│── Pictures/
 │   ├── hardware.png
 │   ├── rfidscanner.png
 │   ├── accessgranted.png
@@ -192,13 +183,7 @@ RFID-Attendance-System/
 
 ---
 
-## Repository Topics
-
-arduino • rfid • iot • attendance-system • embedded-cpp • wokwi • rc522 • arduino-project
-
----
-
-## Authors
+## Author
 
 * Nikhil Rejith
 
